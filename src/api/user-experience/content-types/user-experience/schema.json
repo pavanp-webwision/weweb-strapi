@@ -1,0 +1,15 @@
+{
+  "kind": "collectionType",
+  "collectionName": "user_experiences",
+  "info": {
+    "singularName": "user-experience",
+    "pluralName": "user-experiences",
+    "displayName": "UserExperience",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
